@@ -16,6 +16,7 @@ export default function DidYouKnowSection() {
       controls.start("visible");
     }
   }, [controls, inView]);
+  
   return (
     <>
       <Grid.Container
