@@ -7,7 +7,7 @@ export const myLightTheme = createTheme({
       // generic colors
       white: "#ffffff",
       black: "#000000",
-      primary: "#000000",
+      primary: "#5285EC",
       secondary: "#ffffff",
 
       successLight: "$green200", // $green600 on dark mode
